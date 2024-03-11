@@ -1,2 +1,4 @@
 # Hadiths
 Obsessed with the | Life-Style-Of | Muhammad PBUH
+<br>
+🕌📚🌙 Embracing the realm of Islamic content, my Hadith app is a testament to simplicity and spirituality. Utilizing #HTML, #CSS, and #JavaScript, this app provides users with access to a treasure trove of Hadith literature. 💻📖 With a focus on elegant UI designs and seamless API integration, users can immerse themselves in the teachings of Prophet Muhammad (peace be upon him) from anywhere in the world. Through efficient API calls, the app ensures swift navigation and reliable access to authentic Hadith collections, guiding users on their journey of faith. Whether seeking guidance on daily practices or delving deep into the wisdom of Islamic traditions, this app serves as a beacon of knowledge and enlightenment. #FrontendDevelopment #IslamicApps #HadithApp #IslamicContent #WebDevelopment 🕋📱
